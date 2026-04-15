@@ -1,4 +1,4 @@
-## 풀스택 개발자로 성장 중입니다
+## 풀스택 개발자로 성장 중입니다😆
 
 <!--
 **Baeknawon/Baeknawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
